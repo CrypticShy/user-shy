@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "description": "",
+  "main": "selfbot.js",
+  "scripts": {
+    "start": "node selfbot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.16.4",
+    "edit-json-file": "^1.2.1"
+  }
+}
